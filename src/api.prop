@@ -1,0 +1,9 @@
+[id1]
+uri=/test/1.0/api1
+param1=aaa
+param2=bbb
+
+[id2]
+uri=/test/1.0/api2
+param1=zzz
+param2=yyy
